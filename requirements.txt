@@ -1,0 +1,5 @@
+jupyter
+gymnasium
+numpy<2.0.0
+keras
+matplotlib
